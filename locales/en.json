@@ -68,7 +68,7 @@
     "mutedSong": "<@{author}> 🔇 killed the music!",
     "decreasedVolume": "<@{author}> 🔉 decreased the volume, the volume is now {volume}%",
     "increasedVolume": "<@{author}> 🔊 upgraded the party , the volume is now {volume}%",
-    "loopSong": "<@{author}> im loopi'n it  {loop}",
+    "loopSong": "<@{author}> Ok bro loop is {loop}",
     "stopSong": "<@{author}> ⏹ ruined my music!",
     "leaveChannel": "Im leaving the party Bye...",
     "songNotFound": "Audio Not Found"
